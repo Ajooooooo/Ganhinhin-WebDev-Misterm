@@ -1,0 +1,67 @@
+body {
+  background-color: powderblue;
+  font-family: Arial;
+}
+
+h1 {
+  color: blue;
+  font-size: 30px;
+}
+
+p {
+  color: black;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  background-color: lightblue;
+  padding: 15px;
+  margin-bottom: 20px;
+}
+
+.header a {
+  margin-left: 15px;
+}
+
+.header img {
+  width: 30px;
+}
+
+.main {
+  width: 80%;
+  margin-left: 10%;
+}
+
+.hero {
+  text-align: center;
+  padding: 30px;
+}
+
+.card {
+  background-color: white;
+  padding: 15px;
+  margin-bottom: 15px;
+}
+
+input {
+  width: 300px;
+  margin-bottom: 10px;
+}
+
+.small {
+  width: 20px;
+}
+
+button {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.footer {
+  text-align: center;
+  font-size: 14px;
+  padding: 30px;
+}
