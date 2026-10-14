@@ -1,1 +1,1 @@
-ang goal raman kay magcreate multi-page static social media so more on the structure and fundamental focus instead of layout design,i did minimal (mao rasab kaya atm), base sa instructions.
+ang goal raman kay magcreate multi-page static social media so more on the structure and fundamental focus instead of layout design, i did minimal sa design (mao rasab kaya atm and lisod na gali ang last prelim sir hehe), base sa instructions.
